@@ -1,0 +1,30 @@
+.banner {
+    background-image: url("par.jpg");
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+  }
+  
+  .lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+  }
+  .crop-img {
+    object-fit: cover;
+  }
+  
+  .tim img {
+    width: 250px;
+    border: 10px solid #cccccc;
+  }
+  
+  .client img {
+    height: auto;
+    max-height: 50px;
+  }
